@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Lindokuhle Yende!
 
 ## 🚀 About Me
- **Full-Stack Developer** with a love for creating technology that makes a difference.  
+ **Full-Stack Software engineer** with a love for creating technology that makes a difference.  
 
 My journey in software development started with curiosity and has evolved into a commitment to building applications that solve real-world problems.  
 
